@@ -1,0 +1,1369 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="AVU SA Solution">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 4055855985 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add. VAT  Exchange Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Add. VAT Exchange Rate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4055855985 - Field 4198939294 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Add. VAT Exchange Rate - Field Currency Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4055855985 - Field 460889064 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Starting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Add. VAT Exchange Rate - Field Starting Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4055855985 - Field 3521145799 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Add. VAT Exchange Rate - Field Exchange Rate Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4055855985 - Field 1802350527 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Relational Exch. Rate Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Add. VAT Exchange Rate - Field Relational Exch. Rate Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1274595685 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alcohol Percent</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Alcohol Percent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1274595685 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Alcohol Percent - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1274595685 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Alcohol Percent - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4067701736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classification</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4067701736 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Classification - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4067701736 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Classification - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639763273 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639763273 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Color - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639763273 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Color - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 682413854 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 682413854 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Region - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 682413854 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Region - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2106084600 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2106084600 - Field 3808951907 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table - Field Table Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2106084600 - Field 2065755396 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table - Field No. of Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2106084600 - Field 859139943 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Table Relation Errors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table - Field No. of Table Relation Errors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2106084600 - Field 2558632233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table - Field Delete Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2106084600 - Field 3997336476 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table - Field Company Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65073512 - Field 3135334477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table Error - Field Table ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65073512 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table Error - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65073512 - Field 3531868071 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table Error - Field Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65073512 - Field 3070320983 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table Error - Field Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 65073512 - Field 2248886284 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Table Error - Field Error - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2446597864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vintage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Vintage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2446597864 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Vintage - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2446597864 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Vintage - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2446597864 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vintage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Vintage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3840614838 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Volume</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Volume - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3840614838 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Volume - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3840614838 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Volume - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4241719492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wine Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Wine Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4241719492 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Wine Name - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4241719492 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AVU Wine Name - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1828875489 - NamedType 1991926393" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Mandatory field %1 is not mapped. Map the field by choosing Field Mapping in the Currency Exchange Rate Sync. Setup window.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Field Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU Map VAT Curr. Exch. Rate - NamedType FieldNotMappedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 1109901106" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 payment lines out of %2 are applied.\\</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType MatchSummaryMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 3110879739" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 text mapper rules could be applied. They were overridden because a record with the %2 match confidence was found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType TextMapperRulesOverridenTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 603749305" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are %1 ledger entries that this statement line could be applied to with the same confidence.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType MultipleEntriesWithSilarConfidenceFoundTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 2091108686" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There are %1 alternative statement lines that could be applied to the same ledger entry with the same confidence.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType MultipleStatementLinesWithSameConfidenceFoundTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 808524847" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No. %1 was not applied because the transaction amount was insufficient.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType CannotApplyDocumentNoOneToManyApplicationTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 745765755" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The matching of statement lines to open ledger entries is in progress.\\Please wait while the operation is being completed.\\#1####### @2@@@@@@@@@@@@@</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType MatchingStmtLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 173894820" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processed %1 out of %2 lines.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType ProcessedStmtLinesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 1992121385" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The application of statement lines to open ledger entries is in progress. Please wait while the operation is being completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType CreatingAppliedEntriesMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 1549244863" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please wait while the operation is being completed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType ProgressBarMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 370200146" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must choose an account to transfer the difference to.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType MustChooseAccountErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 243244968" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The value in the Transaction Amount field has been reduced by %1. A new line with %1 in the Transaction Amount field has been created.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Difference</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType LineSplitTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 2517680731" size-unit="char" translate="no" xml:space="preserve">
+          <source>AL Bank Account Rec</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType BankAccountRecCategoryLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2319253362 - NamedType 1444338337" size-unit="char" translate="no" xml:space="preserve">
+          <source>Total Bank Statement Lines: %1, of those applied: %2, and text-matched: %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Match Bank Payments 2 - NamedType BankAccountRecTotalAndMatchedLinesLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2182747517 - NamedType 3582497746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Records?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU Record Deletion Mgt. - NamedType Text0001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2182747517 - NamedType 4160848431" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deleting Records!\Table: #1#######</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU Record Deletion Mgt. - NamedType Text0002Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2182747517 - NamedType 4029352016" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Table Relations?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU Record Deletion Mgt. - NamedType Text0003Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2182747517 - NamedType 1967956277" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Checking Relations Between Records!\Table: #1#######</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU Record Deletion Mgt. - NamedType Text0004Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2182747517 - NamedType 3994337686" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 =&gt; %2 = '%3' does not exist in the '%4' table</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU Record Deletion Mgt. - NamedType Text0005Lbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 685581811 - NamedType 517952778" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Show Amount in VAT Add. Currency" cannot be used with "Account Totaling" lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AVU VAT Mgt. - NamedType ErrAccountTotaling</note>
+        </trans-unit>
+        <trans-unit id="Page 1884726632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add. VAT Exchange Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Add. VAT Exchange Rates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1884726632 - Control 460889064 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the date on which the exchange rate on this line comes into effect.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Add. VAT Exchange Rates - Control Starting Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1884726632 - Control 4198939294 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the code of the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Add. VAT Exchange Rates - Control Currency Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1884726632 - Control 3521145799 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates for the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Add. VAT Exchange Rates - Control Exchange Rate Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1884726632 - Control 1802350527 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amounts that are used to calculate exchange rates for the foreign currency on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Add. VAT Exchange Rates - Control Relational Exch. Rate Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1762163612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Alcohol Percents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Alcohol Percents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 359960105 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Classifications</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Classifications - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 548361824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Colors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Colors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2962393931 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Regions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2287814569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Errors</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Table Errors - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3506365270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Table Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3506365270 - Action 2558632233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Table Records - Action Delete Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 3106002577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>F&amp;unctions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action F&amp;unctions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 2961080976 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Insert/Update Tables</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action Insert/Update Tables - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 1657911702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action Calculate Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 3206154020 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Suggest Records to Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action Suggest Records to Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 3714210687 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Records to Delete</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action Clear Records to Delete - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 3327007977 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Delete Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action DeleteRecords - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 998969535 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Table Relations</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action Check Table Relations - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2255825049 - Action 1428162165 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View Records</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Tables - Action View Records - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Statement Preview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 870794884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include VAT entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control Selection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 870794884 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open,Closed,Open and Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control Selection - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 870794884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that VAT entries are included in the VAT Statement Preview window. This only works for lines of type VAT Entry Totaling. It does not work for lines of type Account Totaling.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control Selection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 2447776439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include VAT entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control PeriodSelection - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 2447776439 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Before and Within Period,Within Period</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control PeriodSelection - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 2447776439 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that VAT entries are included in the VAT Statement Preview window. This only works for lines of type VAT Entry Totaling. It does not work for lines of type Account Totaling.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control PeriodSelection - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 1822798884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Amounts in Add. Reporting Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control UseAmtsInAddCurr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 1822798884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the VAT Statement Preview window shows amounts in the additional reporting currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control UseAmtsInAddCurr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 3319920957 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Amounts in VAT Add. Reporting Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control UseAmtsInVATAddCurr - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 3319920957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies that the VAT Statement Preview window shows amounts in the VAT additional reporting currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control UseAmtsInVATAddCurr - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 3319920957 - Method 2126772001 - NamedType 517952778" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"Show Amount in VAT Add. Currency" cannot be used with "Account Totaling" lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control UseAmtsInVATAddCurr - Method OnValidate - NamedType ErrAccountTotaling</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 539546824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control DateFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3451447482 - Control 539546824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the dates that will be used to filter the amounts in the window.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview - Control DateFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 2782707039 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a number that identifies the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control Row No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 953545933 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a row number in the VAT statement report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control VAT Statement Cipher - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a description of the VAT statement line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 1878130204 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies what the VAT statement line will include.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 2638546648 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the VAT statement line shows the VAT amounts, or the base amounts on which the VAT is calculated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control Amount Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 1844012642 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the VAT specification of the involved customer or vendor to link transactions made for this record with the appropriate general ledger account according to the VAT posting setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control VAT Bus. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 236064653 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the VAT specification of the involved item or resource to link transactions made for this record with the appropriate general ledger account according to the VAT posting setup.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control VAT Prod. Posting Group - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 1525236207 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies a tax jurisdiction code for the statement.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control Tax Jurisdiction Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 3144071522 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether to use only entries from the VAT Entry table that are marked as Use Tax to be totaled on this line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control Use Tax - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 941978929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalEmpty - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 941978929 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount of the entry on the line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalEmpty - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 4267714537 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Base Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalBase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 4267714537 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the amount that does no represent VAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalBase - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 588318770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 588318770 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total VAT amount that has been calculated.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 2646957040 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unrealized Base Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalUnrealizedBase - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 2646957040 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unrealized amount if you use unrealized VAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control TotalUnrealizedBase - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 1106443488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unrealized VAT Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control UnrealizedVATAmount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - Control 1106443488 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the unrealized amount if you use unrealized VAT.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - Control UnrealizedVATAmount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1539434828 - NamedType 2476940767" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drilldown is not possible when %1 is %2.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU VAT Statement Preview Line - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Page 1309688163 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Volumes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Volumes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2206369445 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wine Names</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AVU Wine Names - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVU Customer Balance to Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 458406397 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control Ending Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 458406397 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the last date until which information in the report is shown. If left blank, the report shows information until the present time.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control Ending Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 3287144200 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Amounts in LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control PrintAmountInLCY - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 3287144200 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if amounts in the report are displayed in LCY. If you leave the check box blank, amounts are shown in foreign currencies.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control PrintAmountInLCY - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 79950944 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Page per Customer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control PrintOnePrPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 79950944 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if each customer balance is printed on a separate page, in case two or more customers are included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control PrintOnePrPage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 1196418791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Include Unapplied Entries</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control PrintUnappliedEntries - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 1196418791 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if unapplied entries are included in the report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control PrintUnappliedEntries - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 1580087729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Entries with Zero Balance</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control ShowEntriesWithZeroBalance - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 1580087729 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the report must include entries with a balance of 0. By default, the report only includes entries with a positive or negative balance.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control ShowEntriesWithZeroBalance - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - Control 2283383335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salesperson Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - Control SalesPersonFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 1327832897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Balance on %1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType Text000Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 1288385384" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer - Balance to Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType CustBalancetoDateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 684809554" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType CurrReportPageNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 154103091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All amounts are in LCY.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType AllamtsareinLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 69404221" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Posting Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType CustLedgEntryPostingDtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 1564621511" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType OriginalAmtCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3190003814 - NamedType 1897341201" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Date must have a value.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Customer - Balance to Date - NamedType BlankMaxDateErr</note>
+        </trans-unit>
+        <trans-unit id="Report 2187288608 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Contacts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Contacts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2187288608 - Control 1495502555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rows to Skip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Contacts - Control RowsToSkipField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2187288608 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Contacts - Control SheetNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2187288608 - NamedType 3603708091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Record #1####</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Contacts - NamedType ProcessingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2187288608 - NamedType 2032949676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import finished successfully.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Contacts - NamedType FinishedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2187288608 - NamedType 408837786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field value '%1' is bigger than %2 chars in row %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Contacts - NamedType LengthErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3951304589 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Documents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3951304589 - Control 1495502555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rows to Skip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Documents - Control RowsToSkipField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3951304589 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Documents - Control SheetNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3951304589 - NamedType 3603708091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Record #1####</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Documents - NamedType ProcessingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3951304589 - NamedType 2032949676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import finished successfully.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Documents - NamedType FinishedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3951304589 - NamedType 408837786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field value '%1' is bigger than %2 chars in row %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Documents - NamedType LengthErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 37984547 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Items</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Items - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 37984547 - Control 1495502555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rows to Skip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Items - Control RowsToSkipField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 37984547 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Items - Control SheetNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 37984547 - NamedType 3603708091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Record #1####</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Items - NamedType ProcessingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 37984547 - NamedType 2032949676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import finished successfully.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Items - NamedType FinishedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 37984547 - NamedType 408837786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field value '%1' is bigger than %2 chars in row %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Items - NamedType LengthErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2822220531 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import Purchase Orders</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Purchase Orders - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2822220531 - Control 1495502555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rows to Skip</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Purchase Orders - Control RowsToSkipField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2822220531 - Control 3943603846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sheet Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Purchase Orders - Control SheetNameField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2822220531 - NamedType 3603708091" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Processing Record #1####</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Purchase Orders - NamedType ProcessingLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2822220531 - NamedType 2032949676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import finished successfully.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Purchase Orders - NamedType FinishedLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 2822220531 - NamedType 408837786" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field value '%1' is bigger than %2 chars in row %3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Import Purchase Orders - NamedType LengthErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 3763805401 - Control 4105281732 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Update Document Exchange Rate - Control GroupName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3763805401 - Control 4273042114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Sales Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Update Document Exchange Rate - Control UpdateSalesControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3763805401 - Control 1328027559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Purchase Documents</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Update Document Exchange Rate - Control UpdatePurchaseControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3763805401 - Control 3087623063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currency Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Update Document Exchange Rate - Control CurrencyCodeControl - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 3763805401 - NamedType 1248124158" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Updated %1 document(s).</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Update Document Exchange Rate - NamedType DoneLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 728001667 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Add. Currency VAT Amounts</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Update Add. Currency VAT Amts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AVU Vendor Payments List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - ReportColumn 3101682022 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Payment,Invoice,Credit Memo,Finance Charge Memo,Reminder,Refund</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - ReportColumn TempVendorLedgerEntry__Document_Type__Control1150009 - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 2346885236 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Options - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 3299771246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Sorting - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 3299771246 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor with Group Total,Chronological by Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Sorting - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 3299771246 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the sorting order.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Sorting - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 201522238 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Layout</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Layout - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 201522238 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard,FCY Amounts,Posting Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Layout - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - Control 201522238 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the layout of the report. If you select Standard, the report lists payments with amounts in your local currency. If you select FCY Amounts, amounts are in the appropriate foreign currencies. If you select Posting, the report includes information such as the posting group and the user who posted the document.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - Control Layout - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1327832897" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Closed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text000Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1196336482" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text001Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1753513791" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Partial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text002Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3779895200" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Layout </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text003Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3140410629" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Filter: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text004Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2287756966" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Vendor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text005Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2165353731" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard,FCY Amounts,Posting Info</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Text006Lbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1599760317" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Payments List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Payments_ListCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1987762555" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType CurrReport_PAGENOCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 474257480" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType AccNoCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2593154839" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Posting_Date_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1592391676" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Document_No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3543532085" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amt. LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Amount__LCY__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2322957062" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType AccNameCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 162515077" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applies-to Doc. No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Applies_to_Doc__No_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1899273500" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment (LCY)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType PaymentLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3883575378" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pmt. Disc.&amp; Curr.Diff.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType PmtDiscLCYCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1277396292" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Document_No___Control11CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1666099973" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Posting_Date__Control17CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1897103487" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType AccNo_Control23CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2974238326" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry_AmountCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2860336324" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applic. LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Amount__LCY___Control56CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3384896548" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType StatusCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2652279829" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Exchange Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType ExrateCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3381895668" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry_DescriptionCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 59054320" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Original_Amount_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1777527546" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amt. LCY</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Amount__LCY___Control41CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 477427006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType AccNo_Control42CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1276480755" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Src</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Source_Code_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 4122658815" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__User_ID_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1453720087" size-unit="char" translate="yes" xml:space="preserve">
+          <source>P.P.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Purchaser_Code_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 949652469" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tr No</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Transaction_No__CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 2429449303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Post Gr.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Vendor_Posting_Group_CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 281029719" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Doc.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Document_No___Control85CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 3239413370" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType Vendor_Ledger_Entry__Posting_Date__Control83CaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="Report 658442663 - NamedType 1583171122" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report AVU Vendor Payments List - NamedType TotalCaptionLbl</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2039227469 - Control 866287137 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Add. VAT Exchange Rate Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Currencies - Control AddVATExchangeRateDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2039227469 - Control 866287137 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Specifies the date of the exchange rate in the Exchange Rate field. You can update the rate by choosing the Update Exchange Rates button.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Currencies - Control AddVATExchangeRateDate - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2039227469 - Control 760433520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Add. VAT Exchange Rate</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Currencies - Control CHFExchangeRateAmt - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2039227469 - Control 760433520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Specifies the currency exchange rate. You can update the rate by choosing the Update Exchange Rates button.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Currencies - Control CHFExchangeRateAmt - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2039227469 - Action 1646552551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4081634891">
+          <source>Add. VAT Exch. Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Currencies - Action Add. VAT Exch. Rates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 550908651 - Action 1646552551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1013709341">
+          <source>Add. VAT Exch. Rates</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Currency Card - Action Add. VAT Exch. Rates - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1907547168 - Action 2877139870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Create From Contact</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Customer List - Action AVU Create Customer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1907547168 - Action 2877139870 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2901867346">
+          <source>Create new Customer from existing Contact.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Customer List - Action AVU Create Customer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2620163162 - Control 3669003844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4050813720">
+          <source>VAT Reporting Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU General Ledger Setup - Control AVU VAT Reporting Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2620163162 - Control 3669003844 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4050813720">
+          <source>Specifies the currency that will be used as VAT reporting currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU General Ledger Setup - Control AVU VAT Reporting Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2620163162 - Control 3669003844 - Method 2126772001 - NamedType 4184540634" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4050813720">
+          <source>Additional VAT Exchange Rate table should be empty!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU General Ledger Setup - Control AVU VAT Reporting Currency - Method OnValidate - NamedType AddVATExchRateNotEmpty</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2620163162 - Control 2237142063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4050813720">
+          <source>LCY Currency for VAT Reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU General Ledger Setup - Control AVU LCY Curr. for VAT Rep. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2620163162 - Control 2237142063 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4050813720">
+          <source>Specifies the currency that will be used as LCY currency for VAT reporting.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU General Ledger Setup - Control AVU LCY Curr. for VAT Rep. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2620163162 - Field 3669003844 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>VAT Reporting Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU General Ledger Setup - Field AVU VAT Reporting Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2620163162 - Field 2237142063 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4050813720">
+          <source>LCY Currency for VAT Reporting</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU General Ledger Setup - Field AVU LCY Curr. for VAT Rep. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 257864048 - Action 375302131 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3039851816">
+          <source>Apply Selection Automatically</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Payment Reconcil. Journal - Action ApplySelectionAutomatically - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 257864048 - Action 375302131 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3039851816">
+          <source>Apply payments to their related open entries based on data matches between bank transaction text and entry information.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Payment Reconcil. Journal - Action ApplySelectionAutomatically - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 257864048 - Action 2402284180 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3039851816">
+          <source>Update Transaction Text</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Payment Reconcil. Journal - Action UpdateTransactionText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 257864048 - Action 2402284180 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3039851816">
+          <source>Update field "Transaction Text" based on the template: "Vendor/Customer Name" + applied "Document No". For all lines in the batch.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Payment Reconcil. Journal - Action UpdateTransactionText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 257864048 - NamedType 2110986770" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 3039851816">
+          <source>"Transaction Text" will be updated for all lines in the statement. Continue?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Payment Reconcil. Journal - NamedType UpdateTransactionTextQst</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 691460831 - Field 3124481881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3197070065">
+          <source>Due Date Shipment Calculation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Payment Terms - Field AVU Due Date Ship. Calculation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 972943482 - Control 2213053242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2026081320">
+          <source>VAT Difference</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Sales Order Subform - Control AVU VATDifference - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3535535493 - Control 2105001017 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2248515987">
+          <source>Specifies the amount that the VAT amount is calculated from in Additional VAT Currency.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU VAT Entries - Control AVU Add. VAT Base Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3535535493 - Control 372311022 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 2248515987">
+          <source>Specifies the amount of the VAT entry in Additional VAT Currency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU VAT Entries - Control AVU Add. VAT Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2128067064 - Action 299512347 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1770625610">
+          <source>VAT Preview</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU VAT Statement - Action VAT Preview - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2128067064 - Action 299512347 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1770625610">
+          <source>Preview the VAT statement report.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU VAT Statement - Action VAT Preview - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3773746920 - Action 3831725414 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Create From Contact</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Vendor List - Action AVU Create Vendor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3773746920 - Action 3831725414 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4194195770">
+          <source>Create new Vendor from existing Contact.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension AVU Vendor List - Action AVU Create Vendor - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2599671121 - Field 1904549199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2110786292">
+          <source>AVU Description 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Bank Reconcil. Line - Field AVU Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2599671121 - Field 3817639050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2110786292">
+          <source>AVU Description 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Bank Reconcil. Line - Field AVU Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2599671121 - Field 3179942433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2110786292">
+          <source>AVU Description 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Bank Reconcil. Line - Field AVU Description 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1785531598 - Field 3397846662 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3993128796">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Contact - Field AVU Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1785531598 - Field 3689709870 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3993128796">
+          <source>Person ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Contact - Field AVU Person ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1785531598 - Field 431205182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3993128796">
+          <source>Contact Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Contact - Field AVU Contact Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1785531598 - Field 147264833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3993128796">
+          <source>Special Supplier</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Contact - Field AVU Special Supplier - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2740107449 - Field 4135838497 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 4274826855">
+          <source>Name 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU G/L Account - Field AVU Name 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3978626751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 682413854 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Region</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Region - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 2446597864 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Vintage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Vintage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 1639763273 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Color</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Color - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 1639763273 - Property 62802879" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source> ,Red,White,Sweet,Distilled,Sparkling,Rosé,Beer</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Color - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3653120564 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Alcohol Percent Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Alcohol - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 4067701736 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Classification Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Classification - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3840614838 - Property 2879900210" size-unit="char" translate="no" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Volume Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Volume - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 930353822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Country of Origin Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Country of Origin Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3073124729 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Region Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Region Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 1099072955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Vintage Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Vintage Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 2174447050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Alcohol Percent Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Alcohol Percent Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3653485243 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Classification Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Classification Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3360264641 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Volume Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Volume Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 1507733991 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Producer No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Producer No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 4072464791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Producer Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Producer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3005161769 - Field 3988877094 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>Color Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Item - Field AVU Color Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 226562240 - Field 1904549199 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2953701154">
+          <source>AVU Description 1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Posted Payment Recon. Line - Field AVU Description 1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 226562240 - Field 3817639050 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2953701154">
+          <source>AVU Description 2</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Posted Payment Recon. Line - Field AVU Description 2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 226562240 - Field 3179942433 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2953701154">
+          <source>AVU Description 3</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Posted Payment Recon. Line - Field AVU Description 3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 4214538727 - Field 1784233346 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Assignee Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU Sales Header - Field AVU Assignee Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 54069479 - Field 372311022 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2941967353">
+          <source>Add. Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU VAT Entry - Field AVU Add. VAT Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 54069479 - Field 2105001017 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 2941967353">
+          <source>Add. Base</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension AVU VAT Entry - Field AVU Add. VAT Base Amount - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

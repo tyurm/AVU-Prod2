@@ -412,7 +412,7 @@ report 82000 "AVU Import Documents"
                     UpdateSalesLineVAT(SalesHeader, ABS(TotalVAT));
 
             if (TotalSalesLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(TotalVAT, 0.01)) then begin
-                if ABS(Discount2) <= 0.05 then begin
+                if (ABS(Discount2) <= 0.05) and (Discount2 <> 0) then begin
                     SalesCalcDiscountByType.ApplyInvDiscBasedOnAmt(Discount - Discount2, SalesHeader);
                     CreateSalesLine(SalesHeader, SalesHeader."Gen. Bus. Posting Group", Discount2, 0, 'ROUNDING', VAT);
                     UpdateSalesLineVAT(SalesHeader, ABS(TotalVAT));
@@ -816,7 +816,7 @@ report 82000 "AVU Import Documents"
                     UpdateSalesLineVAT(SalesHeader, ABS(TotalVAT));
 
             if (TotalSalesLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(TotalVAT, 0.01)) then begin
-                if ABS(Discount2) <= 0.05 then begin
+                if (ABS(Discount2) <= 0.05) and (Discount2 <> 0) then begin
                     SalesCalcDiscountByType.ApplyInvDiscBasedOnAmt(Discount - Discount2, SalesHeader);
                     CreateSalesLine(SalesHeader, SalesHeader."Gen. Bus. Posting Group", Discount2, 0, 'ROUNDING', VAT);
                     UpdateSalesLineVAT(SalesHeader, ABS(TotalVAT));
@@ -974,7 +974,7 @@ report 82000 "AVU Import Documents"
         Evaluate(Discount, ExcelBuffer."Cell Value as Text");
         Discount := (-1) * Discount;
         PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(Discount, PurchaseHeader);
-        //UpdatePurchaseLineVAT(PurchaseHeader, ABS(VAT));
+
         //try rounding fix
         ExcelBuffer.Get(RowNo, 14);
         Evaluate(Dec, ExcelBuffer."Cell Value as Text");
@@ -994,29 +994,20 @@ report 82000 "AVU Import Documents"
             if TryFixRndCount mod 2 = 0 then
                 if VATAmount <> round(DocVAT, 0.01) then
                     UpdatePurchaseLineVAT(PurchaseHeader, ABS(DocVAT));
-            if (TotalPurchLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(DocVAT, 0.01)) then
-                if ABS(Discount2) <= 0.05 then begin
+
+            if (TotalPurchLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(DocVAT, 0.01)) then begin
+                if (ABS(Discount2) <= 0.05) and (Discount2 <> 0) then begin
                     PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(Discount - Discount2, PurchaseHeader);
                     CreatePurchaseLine(PurchaseHeader, PurchaseHeader."Gen. Bus. Posting Group", Discount2, 0, 'ROUNDING', VAT);
                     UpdatePurchaseLineVAT(PurchaseHeader, ABS(DocVAT));
+
                 end;
-            AmountsCorrect := True;
+                AmountsCorrect := True;
+            end;
         end;
         ReleasePurchDoc.CalcAndUpdateVATOnLines(PurchaseHeader, TotalPurchLine); //update amounts like on statistic page
         Commit();
-        /*PurchaseHeader.Invoice := true;
-        PurchaseHeader.Receive := true;
-        Codeunit.Run(Codeunit::"Purch.-Post", PurchaseHeader);
-        Commit();
-        if ExcelBuffer.Get(RowNo, 37) then // Paid
-            if ExcelBuffer."Cell Value as Text" = 'Yes' then
-                PostPayment(PurchaseHeader, 0)
-            else begin
-                ExcelBuffer.Get(RowNo, 38);
-                Evaluate(Dec, ExcelBuffer."Cell Value as Text");
-                if Dec <> 0 then
-                    PostPayment(PurchaseHeader, Dec);
-            end;*/
+
     end;
 
     procedure GetPurchHeaderAmounts(PurchHeader: Record "Purchase Header"; var TotalPurchLine: Record "Purchase Line"; var VATAmount: Decimal)
@@ -1414,37 +1405,20 @@ report 82000 "AVU Import Documents"
             if TryFixRndCount mod 2 = 0 then
                 if VATAmount <> round(DocVAT, 0.01) then
                     UpdatePurchaseLineVAT(PurchaseHeader, ABS(DocVAT));
-            if (TotalPurchLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(DocVAT, 0.01)) then
-                if ABS(Discount2) <= 0.05 then begin
+            if (TotalPurchLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(DocVAT, 0.01)) then begin
+                if (ABS(Discount2) <= 0.05) and (Discount2 <> 0) then begin
                     PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(Discount - Discount2, PurchaseHeader);
                     CreatePurchaseLine(PurchaseHeader, PurchaseHeader."Gen. Bus. Posting Group", Discount2, 0, 'ROUNDING', VAT);
                     UpdatePurchaseLineVAT(PurchaseHeader, ABS(DocVAT));
                 end;
-            AmountsCorrect := True;
+                AmountsCorrect := True;
+            end;
         end;
         ReleasePurchDoc.CalcAndUpdateVATOnLines(PurchaseHeader, TotalPurchLine); //update amounts like on statistic page
         Commit();
-        // PurchaseHeader.CalcFields("Amount Including VAT");
-        // ExcelBuffer.Get(RowNo, 14); // document total
-        // Evaluate(DocumentTotal, ExcelBuffer."Cell Value as Text");
-        // Dec := ABS(DocumentTotal) - PurchaseHeader."Amount Including VAT";
-        // If Dec <> 0 then
-        //     CreatePurchaseLine(PurchaseHeader, PurchaseHeader."Gen. Bus. Posting Group", Dec, 0, 'ROUNDING', VAT);
 
         Commit();
-        /*PurchaseHeader.Invoice := true;
-        PurchaseHeader.Receive := true;
-        Codeunit.Run(Codeunit::"Purch.-Post", PurchaseHeader);
-        Commit();
-        if ExcelBuffer.Get(RowNo, 37) then // Paid
-            if ExcelBuffer."Cell Value as Text" = 'Yes' then
-                PostPayment(PurchaseHeader, 0)
-            else begin
-                ExcelBuffer.Get(RowNo, 38);
-                Evaluate(Dec, ExcelBuffer."Cell Value as Text");
-                if Dec <> 0 then
-                    PostPayment(PurchaseHeader, Dec);
-            end;*/
+
     end;
     //#endregion
     //#region Other

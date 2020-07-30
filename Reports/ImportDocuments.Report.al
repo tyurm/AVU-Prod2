@@ -389,6 +389,7 @@ report 82000 "AVU Import Documents"
         AllowInvDiscOnGLLines(SalesHeader);
         ExcelBuffer.Get(RowNo, 21); // sconto
         Evaluate(Discount, ExcelBuffer."Cell Value as Text");
+        Discount := (-1) * Discount;
         SalesCalcDiscountByType.ApplyInvDiscBasedOnAmt(Discount, SalesHeader);
         //try rounding fix
         ExcelBuffer.Get(RowNo, 14);
@@ -778,8 +779,8 @@ report 82000 "AVU Import Documents"
 
         ExcelBuffer.Get(RowNo, 18); // vino (tutti articoli esclusi nazione accessori)
         Evaluate(Dec, ExcelBuffer."Cell Value as Text");
-        ExcelBuffer.Get(RowNo, 21); // sconto
-        Evaluate(Discount, ExcelBuffer."Cell Value as Text");
+        //ExcelBuffer.Get(RowNo, 21); // sconto
+        //Evaluate(Discount, ExcelBuffer."Cell Value as Text");
         CreateSalesItemLines(SalesHeader, ExcelBuffer, RowNo, VAT);
 
         ExcelBuffer.Get(RowNo, 22); // spese spedizioni
@@ -816,7 +817,7 @@ report 82000 "AVU Import Documents"
 
             if (TotalSalesLine."Amount Including VAT" = TotalAmtInclVat) and (VATAmount = round(TotalVAT, 0.01)) then begin
                 if ABS(Discount2) <= 0.05 then begin
-                    SalesCalcDiscountByType.ApplyInvDiscBasedOnAmt(0, SalesHeader);
+                    SalesCalcDiscountByType.ApplyInvDiscBasedOnAmt(Discount - Discount2, SalesHeader);
                     CreateSalesLine(SalesHeader, SalesHeader."Gen. Bus. Posting Group", Discount2, 0, 'ROUNDING', VAT);
                     UpdateSalesLineVAT(SalesHeader, ABS(TotalVAT));
                 end;
@@ -971,8 +972,9 @@ report 82000 "AVU Import Documents"
         Commit();
         ExcelBuffer.Get(RowNo, 21); // sconto
         Evaluate(Discount, ExcelBuffer."Cell Value as Text");
-        PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(-Discount, PurchaseHeader);
-        UpdatePurchaseLineVAT(PurchaseHeader, ABS(VAT));
+        Discount := (-1) * Discount;
+        PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(Discount, PurchaseHeader);
+        //UpdatePurchaseLineVAT(PurchaseHeader, ABS(VAT));
         //try rounding fix
         ExcelBuffer.Get(RowNo, 14);
         Evaluate(Dec, ExcelBuffer."Cell Value as Text");
@@ -1390,8 +1392,8 @@ report 82000 "AVU Import Documents"
         Commit();
         ExcelBuffer.Get(RowNo, 21); // sconto
         Evaluate(Discount, ExcelBuffer."Cell Value as Text");
-        PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(-Discount, PurchaseHeader);
-        UpdatePurchaseLineVAT(PurchaseHeader, ABS(VAT));
+        PurchCalcDiscByType.ApplyInvDiscBasedOnAmt(Discount, PurchaseHeader);
+        //UpdatePurchaseLineVAT(PurchaseHeader, ABS(VAT));
         //Commit();
         //try rounding fix
         ExcelBuffer.Get(RowNo, 14);

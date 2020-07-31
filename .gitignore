@@ -1,15 +1,7 @@
-.alpackages/Microsoft_Base Application_15.0.36560.36649.app
-.alpackages/Microsoft_System Application_15.0.36560.36649.app
-.alpackages/Microsoft_System_15.0.36510.0.app
 Pages/ImportCustomData.Page.al
 .vscode/rad.json
-AVU SA_AVU SA Solution_1.0.0.53.app
-.alcache/cache_9e9e1284345d341052b5037f1ac6003a7ba02a1c3159d30017cee5180418cbf9.json
-.alcache/cache_9e9e1284345d341052b5037f1ac6003a7ba02a1c3159d30017cee5180418cbf9events.json
-.alcache/cache_a0bb94610cb7a01890a2217319095fcdf88d1032ef149f25ac4faf07c29644b2.json
-.alcache/cache_a0bb94610cb7a01890a2217319095fcdf88d1032ef149f25ac4faf07c29644b2events.json
-.alcache/cache_b76cbc8d6ddb628d1371eff69027ac39e23eeaf4fc74aa7ae5e35f4f07242614.json
-.alcache/cache_b76cbc8d6ddb628d1371eff69027ac39e23eeaf4fc74aa7ae5e35f4f07242614events.json
-.altemplates/table.dictionary.json
-.altemplates/table.entry.json
-AVU SA_AVU SA Solution_1.0.0.54.app
+.alpackages/
+.alcache/
+.altemplates/
+*.app
+
